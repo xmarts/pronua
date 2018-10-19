@@ -7,3 +7,8 @@
 	path = xmarts/credit_limit_alert_update
 	url = git@github.com:xmarts/credit_limit_alert_update.git
 	branch = v3
+
+[submodule "xmarts/monitoring_control"]
+	path = xmarts/monitoring_control
+	url = git@github.com:xmarts/monitoring_control.git
+	branch = master
