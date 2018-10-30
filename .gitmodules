@@ -1,8 +1,3 @@
-[submodule "xmarts/xmarts_validate_purchase"]
-	path = xmarts/xmarts_validate_purchase
-	url = git@github.com:xmarts/xmarts_validate_purchase.git
-	branch = 12
-
 [submodule "xmarts/credit_limit_alert_update"]
 	path = xmarts/credit_limit_alert_update
 	url = git@github.com:xmarts/credit_limit_alert_update.git
@@ -17,3 +12,8 @@
 	path = xmarts/xmarts_sales_process
 	url = git@github.com:xmarts/xmarts_sales_process.git
 	branch = master
+	
+[submodule "xmarts/xmarts_validate_purchase"]
+	path = xmarts/xmarts_validate_purchase
+	url = git@github.com:xmarts/xmarts_validate_purchase.git
+	branch = 12
