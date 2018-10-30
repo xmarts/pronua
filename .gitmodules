@@ -2,3 +2,8 @@
 	path = xmarts/xmarts_validate_purchase
 	url = git@github.com:xmarts/xmarts_validate_purchase.git
 	branch = 12
+
+[submodule "xmarts/xmarts_sales_process"]
+	path = xmarts/xmarts_sales_process
+	url = git@github.com:xmarts/xmarts_sales_process.git
+	branch = master
