@@ -1,0 +1,4 @@
+[submodule "xmarts/xmarts_validate_purchase"]
+	path = xmarts/xmarts_validate_purchase
+	url = git@github.com:xmarts/xmarts_validate_purchase.git
+	branch = 12
