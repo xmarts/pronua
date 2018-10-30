@@ -12,3 +12,8 @@
 	path = xmarts/monitoring_control
 	url = git@github.com:xmarts/monitoring_control.git
 	branch = master
+
+[submodule "xmarts/xmarts_sales_process"]
+	path = xmarts/xmarts_sales_process
+	url = git@github.com:xmarts/xmarts_sales_process.git
+	branch = master
